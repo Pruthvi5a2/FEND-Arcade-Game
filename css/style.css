@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	background-color: #000;
+}
+/* styles for Score Card */
+
+#score h2 {
+	color: #000;
+	font-size: 24px;
+	font-family: monospace;
+}
+#score {
+	width: 25%;
+	margin: 2% auto;
+	text-align: center;
+	padding: 1%;
+	background-color: #ccc;
+	border-radius: 10px;
+}
